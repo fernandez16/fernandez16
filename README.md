@@ -1,20 +1,14 @@
 ### :man_technologist: About Me :
 
-<div align="center">
 - 🌱 I’m currently learning Java & Spring Boot
-</div>
 
 ### :fire: My Stats :
 
-<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandez16&theme=dark)](https://git.io/streak-stats)
-</div>
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=your-github-fernandez16&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-fernandez16&style=flat-square&color=blue" alt=""/>
 
 <!--
 
