@@ -1,14 +1,10 @@
-<div align="center">
 ### :man_technologist: About Me :
-</div>a
 
 <div align="center">
 - 🌱 I’m currently learning Java & Spring Boot
 </div>
 
-<div align="center">
 ### :fire: My Stats :
-</div>
 
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandez16&theme=dark)](https://git.io/streak-stats)
