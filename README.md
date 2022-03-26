@@ -3,7 +3,6 @@
 </div>
 
 <br>
-<br>
 
 ### About Me :
 
@@ -15,9 +14,6 @@
     <li>🌱 I’m currently learning Java & Spring Boot</li>
   </ul>
 </div>
-
-<br>
-<br>
 
 ### My Stack:
 
@@ -35,9 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 </div>
-
-<br>
-<br>
 
 ### My Stats :
 
@@ -58,8 +51,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-fernandez16&style=flat-square&color=blue" alt=""/>
 </div>
-
-<br>
 <br>
 
 ### You can find me here:
