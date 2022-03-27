@@ -2,7 +2,7 @@
   <h2 align="center"> Hi! I'm Raúl Fernández</h2>
 </div>
 
-<br>
+---
 
 ### About Me :
 
@@ -14,6 +14,8 @@
     <li>🌱 I’m currently learning Java & Spring Boot</li>
   </ul>
 </div>
+
+---
 
 ### My Stack:
 
@@ -32,26 +34,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 </div>
 
+---
+
 ### My Stats :
 
 <br>
 
-<!-- <div align="center"> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandez16&theme=dark)](https://git.io/streak-stats)
-<!-- </div> -->
-
-<br>
-
-<!-- <div align="center"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </div> -->
-
-<br>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandez16&theme=dark">
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-fernandez16&style=flat-square&color=blue" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez16&layout=compact&theme=vision-friendly-dark">
 </div>
+
 <br>
+
+---
 
 ### You can find me here:
 
@@ -63,13 +62,30 @@
   </a>
 </p>
 
+<br>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-fernandez16&style=flat-square&color=blue" alt=""/>
+</div>
 
 
-<!-- - 🔭 I’m currently working on ...
+
+
+<!-- 
+
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandez16&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
