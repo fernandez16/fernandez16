@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center"> Hi! I'm Raúl Fernández</h2>
+  <h2 align="center"> Hi! I'm Raúl</h2>
 </div>
 
 ---
@@ -10,8 +10,8 @@
 
 <div>
   <ul type="square">
-    <li>🔭 I’m currently studying at Factoria F5</li>
-    <li>🌱 I’m currently learning Java & Spring Boot</li>
+    <li>🔭 I’m currently working at Capgemini</li>
+    <li>🌱 I’m currently learning Java & Spring</li>
   </ul>
 </div>
 
