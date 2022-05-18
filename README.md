@@ -10,7 +10,7 @@
 
 <div>
   <ul type="square">
-    <li>🔭 I’m currently working at Capgemini</li>
+    <li>🔭 I’m currently working as a Back End developer</li>
     <li>🌱 I’m currently learning Java & Spring</li>
   </ul>
 </div>
